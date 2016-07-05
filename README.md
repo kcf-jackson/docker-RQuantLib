@@ -1,4 +1,6 @@
 # docker-RQuantLib
+Docker image for [hadleyverse](https://github.com/rocker-org/hadleyverse) + RQuantLib.
+
 ### Installation
 1. Install [docker](https://www.docker.com/).
 2. Run `docker pull kwokcf/docker-rquantlib`.
